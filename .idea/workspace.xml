@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a84f06d5-4ef0-4907-a552-980fcbf8bad7" name="Default Changelist" comment="">
+      <change afterPath="C:/xampp/htdocs/MVC/public/index.php" afterDir="false" />
+      <change beforePath="C:/xampp/htdocs/MVC/app/controllers/MainController.php" beforeDir="false" afterPath="C:/xampp/htdocs/MVC/app/controllers/MainController.php" afterDir="false" />
+      <change beforePath="C:/xampp/htdocs/MVC/app/http/routes.php" beforeDir="false" afterPath="C:/xampp/htdocs/MVC/app/http/routes.php" afterDir="false" />
+      <change beforePath="C:/xampp/htdocs/MVC/lib/Router.php" beforeDir="false" afterPath="C:/xampp/htdocs/MVC/lib/Router.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/xampp/htdocs/MVC" />
+  </component>
+  <component name="ProjectId" id="1YaS64QPvBAxL7OOwItgYugofsn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/MVC" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MVC" />
+      <recent name="C:\xampp\htdocs\MVC\app" />
+      <recent name="C:\xampp\htdocs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84f06d5-4ef0-4907-a552-980fcbf8bad7" name="Default Changelist" comment="" />
+      <created>1583179033200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583179033200</updated>
+      <workItem from="1583179034595" duration="4301000" />
+    </task>
+    <task id="LOCAL-00001" summary="¡Primer commit!">
+      <created>1583180365562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583180365562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="¡Primer commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="¡Primer commit!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1583179744909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583179744909" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583180276310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583180276310" />
+    <state x="722" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583180920164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583180920164" />
+    <state x="583" y="29" key="CommitChangelistDialog2" timestamp="1583183370948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="29" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583183370948" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1583181643219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583181643219" />
+    <state x="828" y="414" width="264" height="263" key="Github.ShareDialog" timestamp="1583180065492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="414" width="264" height="263" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583180065492" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583180140242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583180140242" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1583180371017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583180371017" />
+  </component>
+</project>
